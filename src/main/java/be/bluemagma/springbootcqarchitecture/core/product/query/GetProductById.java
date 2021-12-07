@@ -8,7 +8,7 @@ import java.util.Optional;
 import be.bluemagma.springbootcqarchitecture.core.product.Product;
 import be.bluemagma.springbootcqarchitecture.core.product.ProductRepository;
 import be.bluemagma.springbootcqarchitecture.cqrs.HandledBy;
-import be.bluemagma.springbootcqarchitecture.cqrs.Query;
+import be.bluemagma.springbootcqarchitecture.cqrs.query.Query;
 import be.bluemagma.springbootcqarchitecture.cqrs.query.QueryHandler;
 import lombok.Value;
 

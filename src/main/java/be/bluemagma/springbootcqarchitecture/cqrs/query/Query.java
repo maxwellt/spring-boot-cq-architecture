@@ -1,4 +1,6 @@
-package be.bluemagma.springbootcqarchitecture.cqrs;
+package be.bluemagma.springbootcqarchitecture.cqrs.query;
+
+import be.bluemagma.springbootcqarchitecture.cqrs.Dispatchable;
 
 /**
  * Used for requests that read the application state
